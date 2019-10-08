@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "nprogress": "^0.2.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
     "@vue/cli-plugin-babel": "^3.11.0",
     "@vue/cli-plugin-eslint": "^3.11.0",
     "@vue/cli-service": "^3.11.0",
